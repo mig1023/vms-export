@@ -1,0 +1,14 @@
+{
+  "id" : "",
+  "title": "VMS Export Estonia",
+  "name": "vms-export-ee",
+  "version": "1.1.0",
+  "description": "vms data export",
+  "main": "index.js",
+  "updateURL": "",
+  "author": "",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  }
+}
